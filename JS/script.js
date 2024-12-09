@@ -103,6 +103,25 @@
 //     console.log( 'nepatenkama i kita lygi:  0 0 0chrome' );
 // } 
 
+// let isLoggedIn = true;
+// let userName = 'John';
+// let time = 20;
+// let isBirthday = true;
+
+// if (isLoggedIn === true){
+//     console.log( 'Good Morning, John' );
+// } if (isBirthday === true){
+//     console.log( 'Good Morning, John and have a great birthday!' );
+// } if (isLoggedIn === false) {
+//     console.log( 'Good Morning' );
+// } if (time >= 5 && time <= 12){
+//     console.log( 'Good Morning' );
+// } if (time >= 13 && time <= 18){
+//     console.log( 'Good Afternoon' )
+// } if (time <= 4 || time >= 19){
+//     console.log( 'Good Evening' )
+// }
+
 
  
 
